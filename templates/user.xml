@@ -1,0 +1,42 @@
+<templateSet group="user">
+  <template name="pvm" value="public void method() {&#10;&#10;}" description="public void method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="tpvm" value="@Test&#10;public void method() {&#10;&#10;}" description="Test public void method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="psvmethod" value="public static void method() {&#10;&#10;} " description="public static method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="sou::t" value="System.out::println" description="System.out::println" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="ps_name" value="public String name;" description="public String name;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name=".forsou::t" value=".forEach(System.out::println);" description=".forEach(System.out::println);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="pi_name" value="public int name;" description="public int name" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="//formatter:off" value="// @formatter:off" description="// @formatter:off" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

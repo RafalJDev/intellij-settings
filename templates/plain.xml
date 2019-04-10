@@ -1,0 +1,9 @@
+<templateSet group="plain">
+  <template name="asTest" value="//given&#10;//setUp&#10;&#10;//when&#10;&#10;//then&#10;assert $what$ : &quot;$msg$&quot;;" description="My assert template" toReformat="false" toShortenFQNames="true">
+    <variable name="what" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="msg" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
