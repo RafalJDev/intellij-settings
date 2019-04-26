@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="JSON" injector-id="java">
+      <display-name>ResponseValidator.body_equalTo (com.usta.integration.common.testUtil)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("body_equalTo").withParameters("java.lang.Object").definedInClass("com.usta.integration.common.testUtil.ResponseValidator"))]]></place>
+    </injection>
+  </component>
+</application>
