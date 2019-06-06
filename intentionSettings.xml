@@ -1,7 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Database/Run query in console" />
-    <ignoreAction name="Java/Other/Make Call Chain Into Call Sequence" />
-    <ignoreAction name="Java/Declaration/Generate overloaded method with default parameter values" />
-  </component>
-</application>
