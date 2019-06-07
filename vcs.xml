@@ -130,8 +130,12 @@
           <option name="url" value="https://rafaljdev@bitbucket.org/rafaljdev/jenkins-api-services.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.alior.pl/zpe_bb/appexample.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/usta" />
+    <option name="cloneParentDir" value="$USER_HOME$/alior_projekty" />
   </component>
 </application>
