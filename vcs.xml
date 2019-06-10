@@ -138,6 +138,10 @@
           <option name="url" value="ssh://git@bitbucket.alior.pl/zpe_com/hash-password.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.alior.pl/adap/adap-microservice-softax-pl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/alior_projekty" />
