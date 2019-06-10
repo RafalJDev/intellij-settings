@@ -73,6 +73,15 @@
   <action id="EditorScrollRight">
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
   <action id="InsertNewLineAbove">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -97,6 +106,10 @@
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt period" />
@@ -115,6 +128,9 @@
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="PropertyInspectorActions.AddProperty">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl q" />
@@ -131,4 +147,5 @@
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="tasks.goto" />
 </keymap>
