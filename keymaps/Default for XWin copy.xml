@@ -32,6 +32,10 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="Compile" />
   <action id="Console.TableResult.SetDefault" />
   <action id="DebugClass">
