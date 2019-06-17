@@ -77,6 +77,9 @@
   <action id="EditorScrollRight">
     <keyboard-shortcut first-keystroke="shift alt period" />
   </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="ctrl windows" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl n" />
