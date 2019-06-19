@@ -95,6 +95,7 @@
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
+  <action id="GotoSymbol" />
   <action id="InsertNewLineAbove">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -122,6 +123,10 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="shift alt n" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
   </action>
   <action id="NextEditorTab" />
   <action id="NextSplitter">
