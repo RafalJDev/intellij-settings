@@ -96,6 +96,9 @@
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
   <action id="GotoSymbol" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift f12" />
+  </action>
   <action id="InsertNewLineAbove">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -153,6 +156,7 @@
     <mouse-shortcut keystroke="alt button2" />
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
+  <action id="RestoreDefaultLayout" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
