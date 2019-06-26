@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
     <option name="myOverrideIdeShortcuts" value="false" />
-    <option name="myShellPath" value="C:\cygwin64\bin\bash.exe" />
+    <option name="myShellPath" value="" />
   </component>
 </application>
