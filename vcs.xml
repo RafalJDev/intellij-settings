@@ -142,8 +142,20 @@
           <option name="url" value="ssh://git@bitbucket.alior.pl/adap/adap-microservice-softax-pl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@bitbucket.alior.pl/zpe_bb/newib_common_lib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://pi30606@bitbucket.alior.pl/scm/zpe_bb/newib_common_lib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.alior.pl" />
+          <option name="userName" value="pi30606" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/alior_projekty" />
+    <option name="cloneParentDir" value="C:\Users\pi30606\alior_projekty" />
   </component>
 </application>
