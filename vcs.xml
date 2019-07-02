@@ -158,6 +158,10 @@
           <option name="url" value="https://pi30606@bitbucket.alior.pl/scm/zpe_bb/trusted_profile.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://pi30606@bitbucket.alior.pl/scm/zpe_bb/directdebit.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\pi30606\alior_projekty" />
