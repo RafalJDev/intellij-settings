@@ -34,9 +34,6 @@
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="JsonEditorOptions">
-    <option name="COMMA_ON_PASTE" value="false" />
-  </component>
   <component name="LiveEditOptions" chromeUpdateJSOnChanges="true">
     <option name="elementHighlighting" value="true" />
   </component>
