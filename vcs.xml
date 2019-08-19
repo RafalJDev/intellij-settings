@@ -210,6 +210,10 @@
           <option name="url" value="https://pi30606@bitbucket.alior.pl/scm/zpe_bb/3dsecure.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.alior.pl/scm/zpe_mw_bus/adap_rest_services.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\pi30606\Documents\SharedFolder" />
