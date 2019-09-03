@@ -18,6 +18,10 @@
           <option name="url" value="https://bitbucket.spodemo.com/scm/g4g/sportech-ansible.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://bitbucket.spodemo.com/scm/g4g/api-gateway.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
