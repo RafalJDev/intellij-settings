@@ -2,6 +2,8 @@
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="6" />
     <option name="HIDE_TOOL_STRIPES" value="true" />
+    <option name="MAX_LOOKUP_LIST_HEIGHT" value="26" />
+    <option name="MAX_LOOKUP_WIDTH2" value="1288" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="SHOW_NAVIGATION_BAR" value="false" />
