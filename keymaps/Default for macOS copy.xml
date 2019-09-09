@@ -11,6 +11,7 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="Django.RunManageTaskAction" />
   <action id="Editor LRU">
     <keyboard-shortcut first-keystroke="shift alt n" />
   </action>
@@ -32,6 +33,10 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
