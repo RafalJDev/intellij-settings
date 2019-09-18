@@ -11,7 +11,7 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="CloseEditor">
+  <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="Diff.ApplyLeftSide" />
