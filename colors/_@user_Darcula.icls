@@ -4,13 +4,13 @@
     <property name="created">2018-07-30T11:31:51</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.1.0.0</property>
-    <property name="modified">2019-09-17T07:54:17</property>
+    <property name="modified">2019-09-18T10:43:04</property>
     <property name="originalScheme">Darcula</property>
     <property name="rainbow Default language">true</property>
     <property name="rainbow JAVA">true</property>
     <property name="rainbow kotlin">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="0.7" />
-  <option name="EDITOR_FONT_SIZE" value="11" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
 </scheme>
