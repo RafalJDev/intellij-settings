@@ -14,6 +14,10 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="DebugClass">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="Diff.ApplyLeftSide" />
   <action id="Diff.ApplyRightSide" />
   <action id="Django.RunManageTaskAction" />
