@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
+      <mapping ext="dmp" type="PLAIN_TEXT" />
       <mapping ext="lombok" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
     </extensionMap>
