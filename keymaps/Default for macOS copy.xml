@@ -50,6 +50,9 @@
     <keyboard-shortcut first-keystroke="shift f12" />
   </action>
   <action id="MoveTabDown">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="NextEditorTab" />
