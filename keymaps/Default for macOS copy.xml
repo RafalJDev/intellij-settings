@@ -14,6 +14,10 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="meta w" />
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="CloseProject">
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
