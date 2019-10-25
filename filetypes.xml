@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="Jenkinsfile" type="Groovy" />
       <mapping pattern="jenkinsfile" type="Groovy" />
+      <mapping pattern="templates-one-response" type="JSON" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
       <mapping ext="dmp" type="PLAIN_TEXT" />
